@@ -1,14 +1,36 @@
 html, body {
   height: 100%;
   width: 100%;
+  margin:0;
 }
 h1,h3{
   color:#658864;
+  margin-top:0;
 }
+.words:hover{
+  color:#000000;
+}
+
 hr {
   border-style: none;
   border-top-style:dotted;
-  border-color:#DDDDDD;
+  border-color:#B7B78A;
   border-width:5px;
   width:10%;
+}
+.top-container{
+  background-color:#DDDDDD;
+  text-align:center; 
+}
+.middle-container{
+  background-color:#EEEEEE;
+  width:100%;
+  height:200px;
+  text-align: center;
+}
+.bottom-container{
+  background-color:#DDDDDD;
+  width:100%;
+  height:200px;
+  text-align:center;
 }
