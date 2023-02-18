@@ -37,9 +37,6 @@ hr {
   text-decoration: underline;
   font-weight: 600;
 }
-.last{  border-style: none;
-  border-top-style:dotted;
-  border-color:#658864;
-  border-width:10px;
-  width:10%;
-     }
+div{
+  text-align: center;
+}
