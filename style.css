@@ -4,19 +4,21 @@ body {
   margin:0;
   background-color: #DDDDDD;
 font-family: 'Cabin', sans-serif;
+  text-align: center;
 }
 h1{
   color:#658864;
   margin-top:0px;
+  margin-bottom: 0px;
+  font-size:4em;
 }
-h3{
+h2, h3{
   color:#658864;
   margin-top:0px;
 }
 .words:hover{
   color:#000000;
 }
-
 hr {
   border-style: none;
   border-top-style:dotted;
@@ -25,20 +27,8 @@ hr {
   width:10%;
 }
 .first-container{
-  background-color:#EEEEEE;
-  text-align:center; 
-}
-.second-container{
   background-color:#DDDDDD;
-  text-align: center;
-}
-.third-container{
-  background-color:#EEEEEE;
-  text-align: center;
-}
-.fourth-container{
-  background-color:#EEEEEE;
-  text-align:center;
+  text-align:center; 
 }
 .clouds {
   transform:rotate(180deg);
